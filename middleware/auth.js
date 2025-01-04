@@ -12,7 +12,7 @@ const auth = (req, res, next) => {
   try {
     const payload = jwt.verify(token, process.env.JWT_SECRET);
 
-    const testUser = payload.userId === "64ef3bfb0d8b6d7b30908758";
+    const testUser = payload.userId === "6778d46d577cf8f356430718";
 
     req.user = { userId: payload.userId, testUser };
     next();
