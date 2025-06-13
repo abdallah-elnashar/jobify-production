@@ -14,13 +14,7 @@ const Landing = () => {
             Job <span>tracking</span> App
           </h1>
           <p>
-            I'm baby brunch kinfolk pok pok ugh deep v. Pour-over intelligentsia
-            hammock kogi street art. Chicharrones tumeric fashion axe everyday
-            carry, messenger bag fanny pack kickstarter gluten-free pop-up
-            subway tile stumptown. Tacos salvia schlitz, ascot la croix
-            taxidermy tattooed semiotics bespoke direct trade. Fit knausgaard
-            readymade, shoreditch quinoa hammock distillery big mood drinking
-            vinegar bitters dreamcatcher kickstarter cardigan roof party.
+         Stay on top of your job search with Jobify — a modern, easy-to-use platform built to help you track applications, organize opportunities, and stay focused. Whether you're applying to internships or full-time roles, Jobify lets you create, edit, and manage job listings with ease. Search and filter jobs, monitor your application status, and gain insight with dynamic stats — all from one clean dashboard. Built with the MERN stack, Jobify brings speed, clarity, and structure to your job hunt.
           </p>
           <Link to="/register" className="btn btn-hero">
             Login/Register
